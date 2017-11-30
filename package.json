@@ -1,0 +1,23 @@
+{
+  "name": "response_class",
+  "version": "1.0.0",
+  "description": "response class peel off by bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaptu/response_class.git"
+  },
+  "keywords": [
+    "response",
+    "css"
+  ],
+  "author": "vaptu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaptu/response_class/issues"
+  },
+  "homepage": "https://github.com/vaptu/response_class#readme"
+}
